@@ -1,0 +1,59 @@
+# ==========================================
+# OS Specific Files
+# ==========================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+.directory
+*~
+.fuse_hidden*
+.trash/
+.sharing.config
+
+# ==========================================
+# IDEs and Text Editors
+# ==========================================
+# VS Code
+.vscode/
+!.vscode/extensions.json
+
+# JetBrains (PyCharm, CLion, IntelliJ)
+.idea/
+*.iws
+
+# Vim / Emacs
+*~
+*.swp
+*.swo
+\#*\#
+.#*
+
+# ==========================================
+# Compiled Binaries & C++ Executables
+# ==========================================
+# Ignore compiled C++ binaries (especially on Linux/macOS where they lack extensions)
+*.out
+*.o
+*.obj
+*.exe
+
+# Ignore custom built binary files you run locally in terminal
+bin/
+build/
+
+# ==========================================
+# Python (if you use it for some solutions)
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv
+venv/
+env/
