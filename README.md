@@ -24,7 +24,7 @@ The solutions are organized into folders corresponding to the NeetCode 150 categ
 | `📂 Sliding Window` | ⏳ Not Started | Subarray and substring optimization problems. |
 | `📂 Stack` | 🔄 In Progress | LIFO structures, monotonic stacks. |
 | `📂 Binary Search` | ⏳ Not Started | Logarithmic searching techniques. |
-| `📂 Linked List` | ⏳ Not Started | Node manipulation, pointers, and cycles. |
+| `📂 Linked List` | 🔄 In Progress | Node manipulation, pointers, and cycles. |
 | `📂 Trees` | ⏳ Not Started | Binary Trees, BSTs, traversals, and properties. |
 | `📂 Tries` | ⏳ Not Started | Prefix trees for efficient string matching. |
 | `📂 Heap / Priority Queue`| ⏳ Not Started | Min/Max heaps, top-K elements. |
