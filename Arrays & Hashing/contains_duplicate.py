@@ -1,6 +1,6 @@
 from typing import List
 
-# 2. Contains Duplicate: https://leetcode.com/problems/contains-duplicate/description/
+# 217. Contains Duplicate: https://leetcode.com/problems/contains-duplicate/description/
 
 class Solution:
     # Approach 1: Set

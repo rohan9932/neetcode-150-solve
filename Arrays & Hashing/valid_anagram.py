@@ -1,4 +1,4 @@
-# 3. Valid Anagram: https://leetcode.com/problems/valid-anagram/description/
+# 242. Valid Anagram: https://leetcode.com/problems/valid-anagram/description/
 
 class Solution:
     # Approach 1: Hash Map

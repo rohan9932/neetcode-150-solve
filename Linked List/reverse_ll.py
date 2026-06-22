@@ -1,7 +1,6 @@
-# 10. Reverse a Linked List: https://leetcode.com/problems/reverse-linked-list/
-
 from typing import Optional
 
+# 206. Reverse a Linked List: https://leetcode.com/problems/reverse-linked-list/
 
 class ListNode:
     def __init__(self, val=0, next=None):
