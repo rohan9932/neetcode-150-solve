@@ -8,7 +8,7 @@ I am solving these problems systematically and categorizing them into type-separ
 
 ## 📊 Progress Tracker
 
-- **Current Progress:** `8 / 150` Problems Solved
+- **Current Progress:** `9 / 150` Problems Solved
 - **Language(s) Used:** Python
 
 ---
