@@ -10,6 +10,8 @@ class Solution:
         # 2. store the idx in stack
         # 3. store s.top().idx - curr idx and store in ans
         # 4. if s.empty() store 0 (no greater temp in this case)
+        
+        # Time complexity: O(n) , Space complexity: O(n)
 
         stack = []
         ans = [0] * len(temperatures)
