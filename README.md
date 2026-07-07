@@ -8,7 +8,7 @@ I am solving these problems systematically and categorizing them into type-separ
 
 ## 📊 Progress Tracker
 
-- **Current Progress:** `16 / 150` Problems Solved
+- **Current Progress:** `17 / 150` Problems Solved
 - **Language(s) Used:** Python
 
 ---
@@ -28,7 +28,7 @@ The solutions are organized into folders corresponding to the NeetCode 150 categ
 | `📂 Trees` | ⏳ Not Started | Binary Trees, BSTs, traversals, and properties. |
 | `📂 Tries` | ⏳ Not Started | Prefix trees for efficient string matching. |
 | `📂 Heap / Priority Queue`| ⏳ Not Started | Min/Max heaps, top-K elements. |
-| `📂 Backtracking` | ⏳ Not Started | Brute-force searching with pruning. |
+| `📂 Backtracking` | 🔄 In Progress | Brute-force searching with pruning. |
 | `📂 Graphs` | ⏳ Not Started | BFS, DFS, connectivity, and shortest paths. |
 | `📂 Advanced Graphs` | ⏳ Not Started | Network flow, spanning trees, complex graph algos. |
 | `📂 1D Dynamic Programming`| ⏳ Not Started | Overlapping subproblems, memoization, bottom-up. |
