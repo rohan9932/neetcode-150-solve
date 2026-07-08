@@ -3,6 +3,9 @@ from typing import List
 # 853. Car Fleet: https://leetcode.com/problems/car-fleet/
 
 class Solution:
+    # Time Complexity: O(nlogn) - sorting the cars based on position
+    # Space Complexity: O(n) - for the stack and new_arr
+    
     def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
         stack = []
         new_arr = []
