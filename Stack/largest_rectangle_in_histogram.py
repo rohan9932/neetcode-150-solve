@@ -85,10 +85,53 @@ class Solution:
             stack.pop()
 
         return maxArea
+    
+    # TC: O(2n) -> O(n)
+    # SC: O(n)
+    def largestRectangleAreaMostOptimalOnePass(self, heights: List[int]) -> int:
+        # our intuition is we need area for each bar and update maxArea
+        # so our height would be h[i] for ith bar
+        # and width is basically (nse-pse)-1
+        # because we can see our bar can't go pass through bars which are smaller than it
+
+        stack = []
+
+        maxArea = 0
+
+        for i in range(len(heights)):
+            # popping which are not pse to this element
+            while len(stack) != 0 and heights[stack[-1]] >= heights[i]:
+                # before popping we need to calculate for the bar we are going to pop
+                # because technically we have pse as we traversed forward
+                # and now as we are popping a back element we have the nse also
+                # because for this element as our s.top() element is bigger than it
+                # so the element is just nse for our top
+
+                nseidx = i
+                # as stack would be empty if we popped top
+                pseidx = -1 if len(stack) == 1 else stack[-2]
+
+                area = heights[stack[-1]] * (nseidx - pseidx - 1)
+                maxArea = max(area, maxArea)
+
+                stack.pop()
+            
+            stack.append(i)
+
+        # for rest elements in stack they have no nse
+        # so we need to pick nse as the len(heights) and calculate area for them
+        while len(stack) != 0:
+            nse = len(heights)
+            pse = -1 if len(stack) == 1 else stack[-2]
+            area = heights[stack[-1]] * (nse - pse - 1)
+            maxArea = max(area, maxArea)
+            stack.pop()
+
+        return maxArea
 
 
 # Test Cases
 if __name__ == "__main__":
     s = Solution()
-    print(s.largestRectangleAreaOptimalOnePass([2,1,5,6,2,3])) # 10
+    print(s.largestRectangleAreaMostOptimalOnePass([2,1,5,6,2,3])) # 10
     print(s.largestRectangleArea([2, 4])) # 4
