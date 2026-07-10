@@ -44,7 +44,7 @@ class Solution:
         
         return maxArea
 
-    # Time Complexity: O(n)
+    # Time Complexity: O(2n) -> O(n)
     # Space Complexity: O(2n) -> O(n)
     def largestRectangleAreaOptimalOnePass(self, heights: List[int]) -> int:
         # our intuition is we need area for each bar and update maxArea
