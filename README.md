@@ -8,7 +8,7 @@ I am solving these problems systematically and categorizing them into type-separ
 
 ## 📊 Progress Tracker
 
-- **Current Progress:** `19 / 150` Problems Solved
+- **Current Progress:** `21 / 150` Problems Solved
 - **Language(s) Used:** Python
 
 ---
@@ -22,8 +22,8 @@ The solutions are organized into folders corresponding to the NeetCode 150 categ
 | `📂 Arrays & Hashing` | ✅ Completed | Hashing, tracking, and array manipulations. |
 | `📂 Two Pointers` | 🔄 In Progress | Two-pointer approaches for searching/sorting. |
 | `📂 Sliding Window` | ⏳ Not Started | Subarray and substring optimization problems. |
-| `📂 Stack` | 🔄 In Progress | LIFO structures, monotonic stacks. |
-| `📂 Binary Search` | ⏳ Not Started | Logarithmic searching techniques. |
+| `📂 Stack` | ✅ Completed | LIFO structures, monotonic stacks. |
+| `📂 Binary Search` | 🔄 In Progress | Logarithmic searching techniques. |
 | `📂 Linked List` | 🔄 In Progress | Node manipulation, pointers, and cycles. |
 | `📂 Trees` | ⏳ Not Started | Binary Trees, BSTs, traversals, and properties. |
 | `📂 Tries` | ⏳ Not Started | Prefix trees for efficient string matching. |
