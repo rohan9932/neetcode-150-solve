@@ -8,7 +8,7 @@ I am solving these problems systematically and categorizing them into type-separ
 
 ## 📊 Progress Tracker
 
-- **Current Progress:** `26 / 150` Problems Solved
+- **Current Progress:** `29 / 150` Problems Solved
 - **Language(s) Used:** Python
 
 ---
@@ -36,7 +36,7 @@ The solutions are organized into folders corresponding to the NeetCode 150 categ
 | `📂 Greedy` | ⏳ Not Started | Local optimal choices for global solutions. |
 | `📂 Intervals` | ⏳ Not Started | Overlapping intervals and scheduling. |
 | `📂 Math & Geometry` | ⏳ Not Started | Number theory, matrix manipulation, geometry. |
-| `📂 Bit Manipulation` | ⏳ Not Started | Low-level bitwise operations. |
+| `📂 Bit Manipulation` | 🔄 In Progress | Low-level bitwise operations. |
 
 ---
 
