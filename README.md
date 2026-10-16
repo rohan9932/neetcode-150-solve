@@ -8,7 +8,7 @@ I am solving these problems systematically and categorizing them into type-separ
 
 ## 📊 Progress Tracker
 
-- **Current Progress:** `31 / 150` Problems Solved
+- **Current Progress:** `35 / 150` Problems Solved
 - **Language(s) Used:** Python
 
 ---
@@ -25,7 +25,7 @@ The solutions are organized into folders corresponding to the NeetCode 150 categ
 | `📂 Stack` | ✅ Completed | LIFO structures, monotonic stacks. |
 | `📂 Binary Search` | 🔄 In Progress | Logarithmic searching techniques. |
 | `📂 Linked List` | 🔄 In Progress | Node manipulation, pointers, and cycles. |
-| `📂 Trees` | ⏳ Not Started | Binary Trees, BSTs, traversals, and properties. |
+| `📂 Trees` | 🔄 In Progress | Binary Trees, BSTs, traversals, and properties. |
 | `📂 Tries` | ⏳ Not Started | Prefix trees for efficient string matching. |
 | `📂 Heap / Priority Queue`| ⏳ Not Started | Min/Max heaps, top-K elements. |
 | `📂 Backtracking` | 🔄 In Progress | Brute-force searching with pruning. |
@@ -36,7 +36,7 @@ The solutions are organized into folders corresponding to the NeetCode 150 categ
 | `📂 Greedy` | ⏳ Not Started | Local optimal choices for global solutions. |
 | `📂 Intervals` | ⏳ Not Started | Overlapping intervals and scheduling. |
 | `📂 Math & Geometry` | ⏳ Not Started | Number theory, matrix manipulation, geometry. |
-| `📂 Bit Manipulation` | 🔄 In Progress | Low-level bitwise operations. |
+| `📂 Bit Manipulation` | ✅ Completed | Low-level bitwise operations. |
 
 ---
 
