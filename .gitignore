@@ -20,7 +20,6 @@
 # IDEs and Text Editors
 # ==========================================
 # VS Code
-.vscode/
 !.vscode/extensions.json
 
 # JetBrains (PyCharm, CLion, IntelliJ)
@@ -57,3 +56,5 @@ __pycache__/
 .venv
 venv/
 env/
+config.bat
+node_modules
