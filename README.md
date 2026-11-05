@@ -8,7 +8,7 @@ I am solving these problems systematically and categorizing them into type-separ
 
 ## 📊 Progress Tracker
 
-- **Current Progress:** `44 / 150` Problems Solved
+- **Current Progress:** `46 / 150` Problems Solved
 - **Language(s) Used:** Python
 
 ---
@@ -33,7 +33,7 @@ The solutions are organized into folders corresponding to the NeetCode 150 categ
 | `📂 Advanced Graphs` | ⏳ Not Started | Network flow, spanning trees, complex graph algos. |
 | `📂 1D Dynamic Programming`| ⏳ Not Started | Overlapping subproblems, memoization, bottom-up. |
 | `📂 2D Dynamic Programming`| ⏳ Not Started | Multi-dimensional state optimization. |
-| `📂 Greedy` | ⏳ Not Started | Local optimal choices for global solutions. |
+| `📂 Greedy` | 🔄 In Progress | Local optimal choices for global solutions. |
 | `📂 Intervals` | ⏳ Not Started | Overlapping intervals and scheduling. |
 | `📂 Math & Geometry` | ⏳ Not Started | Number theory, matrix manipulation, geometry. |
 | `📂 Bit Manipulation` | ✅ Completed | Low-level bitwise operations. |
