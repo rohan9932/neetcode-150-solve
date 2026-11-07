@@ -20,6 +20,7 @@
 # IDEs and Text Editors
 # ==========================================
 # VS Code
+.kilo
 !.vscode/extensions.json
 
 # JetBrains (PyCharm, CLion, IntelliJ)
